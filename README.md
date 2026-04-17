@@ -50,12 +50,11 @@ The model is trained using **Linear Regression** and deployed using **Streamlit*
 
 ## 📂 Project Structure
 
-house_prediction/
-│── app.py   # Streamlit app
-│── model.pkl  # Trained ML model
-│── model_columns.pkl   # Feature columns used during training
-│── house_price_prediction.ipynb   # Model training notebook
-│── requirements.txt   # Dependencies
+app.py   # Streamlit app
+model.pkl  # Trained ML model
+model_columns.pkl   # Feature columns used during training
+house_price_prediction.ipynb   # Model training notebook
+requirements.txt   # Dependencies
 
 
 ## ⚙️ Installation & Setup
