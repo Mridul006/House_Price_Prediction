@@ -20,7 +20,6 @@ def load_model():
 
 model, model_columns = load_model()
 
-# ── Hero ──────────────────────────────────────────────────────────────────────
 st.title("🏠 House Price Predictor")
 st.caption("Fill in the details below and get an instant estimated sale price using a trained Linear Regression model.")
 st.divider()
